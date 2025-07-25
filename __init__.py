@@ -1,4 +1,4 @@
-# wzy_somitpkg/__init__.py
+# pysomit/__init__.py
 
 import numpy as np
 from fractions import Fraction
